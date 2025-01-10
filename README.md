@@ -1,2 +1,4 @@
 # LMS
-Library Management System - web application that manages books, library members and borrowing/lending activities.
+## 🧠 Mindmap
+|Mind map: https://whimsical.com/library-management-system-WiY6twSc8ZAJYTEsXReAUu
+## ⚙️Tech Stacks
